@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System.Collections.Generic;
 
 using System.Windows.Media.Media3D;
 
 namespace howto_wpf_3d_many_spheres
 {
+
     class Triangle
     {
         public Point3D[] Points;
